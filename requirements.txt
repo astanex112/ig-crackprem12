@@ -1,0 +1,4 @@
+httplib2==0.9
+simplejson==3.6.3
+six==1.8.0
+pytz==2015.4
